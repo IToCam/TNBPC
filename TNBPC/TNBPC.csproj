@@ -124,7 +124,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\BPC\BPC.csproj">
+    <ProjectReference Include="..\BPC\BPC.csproj">
       <Project>{f78d6cba-fc42-46ae-9580-4257b8977c44}</Project>
       <Name>BPC</Name>
     </ProjectReference>

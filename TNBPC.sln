@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNBPC", "TNBPC\TNBPC.csproj", "{AEAA5108-7757-43B6-91A9-FDA4CD5B2D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPC", "..\BPC\BPC.csproj", "{F78D6CBA-FC42-46AE-9580-4257B8977C44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPC", "BPC\BPC.csproj", "{F78D6CBA-FC42-46AE-9580-4257B8977C44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
