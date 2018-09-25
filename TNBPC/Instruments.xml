@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Instruments>
+  <Instrument>
+    <SpotSymbol>6</SpotSymbol>
+    <MontelSymbol>NO 1</MontelSymbol>
+    <InstrumentId>101712</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>22</SpotSymbol>
+    <MontelSymbol>NO 2</MontelSymbol>
+    <InstrumentId>101713</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>7</SpotSymbol>
+    <MontelSymbol>NO 3</MontelSymbol>
+    <InstrumentId>101714</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>21</SpotSymbol>
+    <MontelSymbol>NO 4</MontelSymbol>
+    <InstrumentId>101715</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>31</SpotSymbol>
+    <MontelSymbol>NO 5</MontelSymbol>
+    <InstrumentId>101716</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>69</SpotSymbol>
+    <MontelSymbol>SE1</MontelSymbol>
+    <InstrumentId>101717</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>70</SpotSymbol>
+    <MontelSymbol>SE2</MontelSymbol>
+    <InstrumentId>101718</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>71</SpotSymbol>
+    <MontelSymbol>SE3</MontelSymbol>
+    <InstrumentId>101719</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>72</SpotSymbol>
+    <MontelSymbol>SE4</MontelSymbol>
+    <InstrumentId>101720</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>9</SpotSymbol>
+    <MontelSymbol>FI</MontelSymbol>
+    <InstrumentId>101721</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>10</SpotSymbol>
+    <MontelSymbol>DK 1</MontelSymbol>
+    <InstrumentId>101722</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>11</SpotSymbol>
+    <MontelSymbol>DK 2</MontelSymbol>
+    <InstrumentId>101723</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>33</SpotSymbol>
+    <MontelSymbol>EE</MontelSymbol>
+    <InstrumentId>101724</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>80</SpotSymbol>
+    <MontelSymbol>LT</MontelSymbol>
+    <InstrumentId>101725</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>77</SpotSymbol>
+    <MontelSymbol>LV</MontelSymbol>
+    <InstrumentId>101726</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>14</SpotSymbol>
+    <MontelSymbol>Phelix</MontelSymbol>
+    <InstrumentId>101727</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>78</SpotSymbol>
+    <MontelSymbol>PolPX</MontelSymbol>
+    <InstrumentId>101730</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>-<Instrument>
+    <SpotSymbol>5</SpotSymbol>
+    <MontelSymbol>Nord Pool</MontelSymbol>
+    <InstrumentId>101731</InstrumentId>
+    <Currency>EUR</Currency>
+    <VendorId>5</VendorId>
+  </Instrument>
+</Instruments>
+  
